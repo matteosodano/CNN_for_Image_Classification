@@ -3,8 +3,9 @@ Developed by: M. Sodano (2019).
 
 Supervisor: prof. L. Iocchi.
 
-Achievement: Machine Learning exam.\\
-</br>
+Achievement: Machine Learning exam.\
+<br>
+
 
 Convolutional Neural Networks are used since they are able to deal with multi-dimensional data by means of a kernel that moves along the image and perform some operations on it, so as to obtain some new representation of that image.
 
