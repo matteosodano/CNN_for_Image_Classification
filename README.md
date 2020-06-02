@@ -31,3 +31,6 @@ Two different convolutional model are used for transfer learning. Both are pre-t
 **Case 2**: *VGG16*. It is used with max pooling. Performances are poor.
 
 <p align="center"> <img width="400" src="https://user-images.githubusercontent.com/62264708/83524406-da95c000-a4e3-11ea-8908-c1a7253adfd4.PNG"> </p>
+
+## Implementation Details
+The code has been written in Google Colaboratory for Python. The data-set is stored in a personal Google Drive folder. The code is available, and can be opened in Colab. To run, you need to link a valid data-set via Drive or other storing platforms.
