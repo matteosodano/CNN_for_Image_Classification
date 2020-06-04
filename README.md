@@ -3,7 +3,7 @@ Developed by: M. Sodano (2019).
 
 Supervisor: prof. L. Iocchi.
 
-Achievement: Machine Learning exam.\
+Achievement: Machine Learning exam (partial).\
 <br>
 
 
